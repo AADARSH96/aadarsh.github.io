@@ -19,7 +19,7 @@ Python, SQL, Shell Scripting
 ### Big Data & Cloud  
 - **Big Data Tools**: Apache Hadoop, HDFS, Apache Spark, Airflow, DBT  
 - **Cloud Platforms**: AWS (S3, Lambda, EMR, Glue, EC2, Athena, Redshift, SNS, SQS, IAM, CloudWatch, Step Functions), Snowflake (Snowpipe, SnowSQL, Snowsight), Databricks  
-- **DevOps**: Docker, Terraform, Kubernetes, CI/CD Pipelines  
+- **DevOps**: Docker, Terraform, CI/CD Pipelines  
 
 ### AI/ML  
 - **Machine Learning**: Linear/Logistic Regression, Clustering, Classification, XGBoost, K-means, PCA, A/B Testing, Feature Engineering  
