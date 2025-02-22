@@ -1,0 +1,8 @@
++++
++++
+
+### Research Project: Document Retrieval System  
+I built a document retrieval system using Llama-2-70B (Hugging Face API) and SentenceTransformers with ChromaDB for semantic search across 10,000+ documents. I engineered LangChain guardrails to reduce hallucinations by 70% and implemented a robust evaluation framework with confidence scoring and source attribution, achieving over 90% retrieval accuracy.
+
+### InstaCart Product Recommendation Engine  
+I created an interactive dashboard using Streamlit to analyze shopping patterns from the InstaCart dataset (3M+ orders). Leveraging K-means clustering with PCA for customer segmentation and FP-Growth for Market Basket Analysis, I achieved 85% confidence in product recommendations.

@@ -1,0 +1,49 @@
+baseURL = "https://aadarsh96.github.io/"
+title = "Aadarsh Gaikwad"
+theme = "PaperMod"
+
+[params]
+  author = "Aadarsh Gaikwad"
+  description = "Software Developer & Data Scientist"
+  ShowReadingTime = true
+
+# Menu Configuration
+
+[[menu.main]]
+  identifier = "experience"
+  name = "Experience"
+  url = "/experience/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "skills"
+  name = "Skills"
+  url = "/skills/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
+
+# Social Links (Optional)
+[params.social]
+  GitHub = "https://github.com/aadarsh96"
+  LinkedIn = "https://linkedin.com/in/aadarsh-gaikwad"
+  Email = "mailto:aadarshgaikwad96@gmail.com"
+
+# Theme-Specific Customization (Optional)
+[params.PaperMod]
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  hideMenu = false
+  hideSidebar = false
+  hideSummary = false
+  showShareButtons = true

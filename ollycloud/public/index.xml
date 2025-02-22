@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on Aadarsh Gaikwad</title>
+    <link>http://localhost:60842/</link>
+    <description>Recent content in About Me on Aadarsh Gaikwad</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 12:42:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:60842/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let’s Connect!</title>
+      <link>http://localhost:60842/contact/</link>
+      <pubDate>Sat, 22 Feb 2025 12:42:16 -0500</pubDate>
+      <guid>http://localhost:60842/contact/</guid>
+      <description>&lt;p&gt;I’m always open to discussing new opportunities, collaborations, or just chatting about technology and data science. Feel free to reach out to me via:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:aadarshgaikwad96@gmail.com&#34;&gt;aadarshgaikwad96@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/aadarsh-gaikwad-940549a5/&#34;&gt;Aadarsh Gaikwad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/aadarsh96&#34;&gt;aadarsh96&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to connecting with you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:60842/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60842/experience/</guid>
+      <description>&lt;h3 id=&#34;software-developer-jp-morgan-chase--co&#34;&gt;Software Developer, J.P. Morgan Chase &amp;amp; Co&lt;/h3&gt;
+&lt;p&gt;At J.P. Morgan Chase &amp;amp; Co, I designed and implemented data pipelines for a Multi-Touch Attribution model, processing over 3 TB of customer data to optimize $2M+ in ad spend. I orchestrated complex workflows using AWS Step Functions, integrating Lambda functions, EMR clusters, and AWS Glue. By fine-tuning PySpark jobs and leveraging spot instances, I saved $50k in computing costs. Additionally, I streamlined CI/CD pipelines using Docker and Terraform, reducing deployment time for critical applications. I also proposed and implemented Snowflake-based solutions for a centralized data lake, improving query performance by 35%.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:60842/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60842/projects/</guid>
+      <description>&lt;h3 id=&#34;research-project-document-retrieval-system&#34;&gt;Research Project: Document Retrieval System&lt;/h3&gt;
+&lt;p&gt;I built a document retrieval system using Llama-2-70B (Hugging Face API) and SentenceTransformers with ChromaDB for semantic search across 10,000+ documents. I engineered LangChain guardrails to reduce hallucinations by 70% and implemented a robust evaluation framework with confidence scoring and source attribution, achieving over 90% retrieval accuracy.&lt;/p&gt;
+&lt;h3 id=&#34;instacart-product-recommendation-engine&#34;&gt;InstaCart Product Recommendation Engine&lt;/h3&gt;
+&lt;p&gt;I created an interactive dashboard using Streamlit to analyze shopping patterns from the InstaCart dataset (3M+ orders). Leveraging K-means clustering with PCA for customer segmentation and FP-Growth for Market Basket Analysis, I achieved 85% confidence in product recommendations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:60842/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60842/skills/</guid>
+      <description>&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;p&gt;Python, SQL, Shell Scripting&lt;/p&gt;
+&lt;h3 id=&#34;backend-development&#34;&gt;Backend Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks&lt;/strong&gt;: Flask, Django, Spring Boot, Express.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Development&lt;/strong&gt;: RESTful APIs, GraphQL, OpenAPI/Swagger&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authentication&lt;/strong&gt;: OAuth 2.0, JWT, Session Management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microservices&lt;/strong&gt;: Design, Implementation, and Orchestration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Integration&lt;/strong&gt;: SQLAlchemy, Hibernate, Mongoose&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;databases&#34;&gt;Databases&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Relational&lt;/strong&gt;: MySQL, PostgreSQL, Oracle&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NoSQL&lt;/strong&gt;: MongoDB, DynamoDB, Cassandra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Big Data&lt;/strong&gt;: Apache Hive, Delta Lake, Snowflake&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;big-data--cloud&#34;&gt;Big Data &amp;amp; Cloud&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Big Data Tools&lt;/strong&gt;: Apache Hadoop, HDFS, Apache Spark, Airflow, DBT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud Platforms&lt;/strong&gt;: AWS (S3, Lambda, EMR, Glue, EC2, Athena, Redshift, SNS, SQS, IAM, CloudWatch, Step Functions), Snowflake (Snowpipe, SnowSQL, Snowsight), Databricks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt;: Docker, Terraform, Kubernetes, CI/CD Pipelines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aiml&#34;&gt;AI/ML&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;: Linear/Logistic Regression, Clustering, Classification, XGBoost, K-means, PCA, A/B Testing, Feature Engineering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Tools&lt;/strong&gt;: Hugging Face, LangChain, ChromaDB, SentenceTransformers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLM Fine-tuning&lt;/strong&gt;: Model Quantization (PEFT &amp;amp; QLoRA), Prompt Engineering, AI Agents, Guardrails&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;soft-skills&#34;&gt;Soft Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Problem Solving, Team Collaboration, Agile Methodologies, Technical Documentation&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:60842/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60842/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Aadarsh Gaikwad&lt;/strong&gt;, a passionate &lt;strong&gt;Software Developer&lt;/strong&gt; and &lt;strong&gt;Data Scientist&lt;/strong&gt; with a strong foundation in building data-driven solutions and leveraging cutting-edge technologies to solve real-world problems. I hold a &lt;strong&gt;Master’s in Data Science&lt;/strong&gt; from &lt;strong&gt;Northeastern University&lt;/strong&gt;, where I specialized in Machine Learning, Big Data, Natural Language Processing, and Cloud Computing.&lt;/p&gt;
+&lt;p&gt;Over the years, I&amp;rsquo;ve had the opportunity to work with leading organizations like &lt;strong&gt;J.P. Morgan Chase &amp;amp; Co&lt;/strong&gt;, &lt;strong&gt;Wells Fargo&lt;/strong&gt;, and &lt;strong&gt;Cognizant Technology Solutions&lt;/strong&gt;, where I honed my skills in software development, data engineering, and cloud computing. My experience spans:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
