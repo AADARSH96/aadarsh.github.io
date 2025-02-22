@@ -14,9 +14,3 @@ Over the years, I've had the opportunity to work with leading organizations like
 - **Master’s in Data Science**, Northeastern University, Boston, MA  
   *Coursework*: Machine Learning, Big Data, Natural Language Processing, Large Language Models, Cloud Computing
 
-I’m always open to discussing new opportunities, collaborations, or just chatting about technology and data science. Feel free to reach out to me via:
-- **Email**: [aadarshgaikwad96@gmail.com](mailto:aadarshgaikwad96@gmail.com)
-- **LinkedIn**: [Aadarsh Gaikwad](https://www.linkedin.com/in/aadarsh-gaikwad-940549a5/)
-- **GitHub**: [aadarsh96](https://github.com/aadarsh96)
-
-Looking forward to connecting with you!
